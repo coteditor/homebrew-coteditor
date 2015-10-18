@@ -8,7 +8,7 @@ class Cot < Formula
   def install
     bin.install "cot"
   end
-  
+
   test do
   end
 end
