@@ -2,8 +2,8 @@ class Cot < Formula
   desc "The command-line helper tool for CotEditor"
   homepage "https://coteditor.com/"
   url "https://raw.githubusercontent.com/coteditor/cot/master/cot"
-  version "2.3.1"
-  sha256 "34e2365681b9f52b6ad9d95bc644ea1560eada4d99cf03cea46eac51a1d03d5c"
+  version "2.4.0"
+  sha256 "14e397193d81dbd3e47a4a66d7dde5837f4c1e2653dca78c3de3ec94c21daf76"
 
   def install
     bin.install "cot"
