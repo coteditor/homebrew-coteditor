@@ -3,7 +3,7 @@ class Cot < Formula
   homepage "https://coteditor.com/"
   head "https://raw.githubusercontent.com/coteditor/cot/main/cot"
   url "https://raw.githubusercontent.com/coteditor/cot/2.9.2/cot"
-  sha256 "a585e8ba4b3cb2cf5413b1b8b08e893e28ee47246174c0be79675b71fb2c09dc"
+  sha256 "384e3126fc590b1953f73210a7fdeba11517dd561752e566a606f574ced754e7"
 
   def install
     bin.install "cot"
