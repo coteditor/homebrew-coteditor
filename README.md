@@ -2,17 +2,11 @@
 homebrew-cot
 =============================
 
-Homebrew formula for `cot` command, the command-line helper tool for [CotEditor](http://coteditor.com).
+> [!IMPORTANT]
+> `cot` cask was deprecated on 2024-06-04 and is no longer maintained. See <https://coteditor.com/com> for the latest instruction how to install the `cot` command-line tool bundled with CotEditor.app.
 
 
-
-Installation
------------------------------
-
-```
-brew tap coteditor/coteditor
-brew install cot
-```
+Homebrew formula for `cot` command, the command-line helper tool for [CotEditor](https://coteditor.com).
 
 
 License
